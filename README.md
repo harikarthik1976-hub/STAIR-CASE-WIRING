@@ -35,6 +35,8 @@ Direct Connection:
 
 Tabulation:
 <img width="659" height="205" alt="image" src="https://github.com/user-attachments/assets/b9a577d8-4f3f-45a7-b9dc-0056a2fe904c" />
+![WhatsApp Image 2025-11-29 at 11 16 08_0dc687a2](https://github.com/user-attachments/assets/0bb21310-5a40-4c78-bd00-09d346c974b8)
+
 
 Circuit Diagram:
 Cross Connection:
@@ -42,7 +44,7 @@ Cross Connection:
 
 Tabulation 2
 <img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/8e944ce6-90c1-4308-b06d-23fe8f9dfb36" />
+![WhatsApp Image 2025-11-29 at 11 16 06_2124a74b](https://github.com/user-attachments/assets/a41265ec-9352-4c0b-8d38-9b5b944824bd)
 
-Result: 
-
-
+# Result: 
+Thus the test is conducted successfully.
